@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./professores.component.scss']
 })
 export class ProfessoresComponent implements OnInit {
-  titulo= 'Professres'  
+  titulo= 'Professores'  
   professores=[
     {nome:'Marta'},
     {nome:'Maria'},
